@@ -1,0 +1,13 @@
+{
+    "name": "scripts",
+    "version": "1.0.0",
+    "description": "Automation scripts",
+    "main": "sync-sheets.js",
+    "scripts": {
+        "sync": "node sync-sheets.js"
+    },
+    "dependencies": {
+        "google-spreadsheet": "^4.1.1",
+        "dotenv": "^16.0.3"
+    }
+}

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1",
+        "visited": true,
+        "name": "El Celler de Can Roca",
+        "address": "Carrer de Can Sunyer, 48, 17007 Girona",
+        "googleMapsUrl": "https://goo.gl/maps/example1",
+        "placeId": "ChIJ...",
+        "openingHours": [
+            "Mon-Sun: 10:00 AM - 10:00 PM"
+        ],
+        "comments": "Increíble experiencia, reservar con antelación.",
+        "coordinates": {
+            "lat": 41.993,
+            "lng": 2.806
+        },
+        "lastUpdated": "2023-10-27T10:00:00Z"
+    },
+    {
+        "id": "2",
+        "visited": false,
+        "name": "Disfrutar",
+        "address": "C. de Villarroel, 163, 08036 Barcelona",
+        "googleMapsUrl": "https://goo.gl/maps/example2",
+        "placeId": "ChIJ...",
+        "openingHours": [
+            "Tue-Sat: 1:00 PM - 5:00 PM, 8:00 PM - 12:00 AM"
+        ],
+        "comments": "Pendiente de ir, dicen que es espectacular.",
+        "coordinates": {
+            "lat": 41.387,
+            "lng": 2.152
+        },
+        "lastUpdated": "2023-10-26T15:30:00Z"
+    },
+    {
+        "id": "3",
+        "visited": true,
+        "name": "Tickets",
+        "address": "Avinguda del Paral·lel, 164, 08015 Barcelona",
+        "googleMapsUrl": "https://goo.gl/maps/example3",
+        "placeId": "ChIJ...",
+        "openingHours": [
+            "Tue-Sat: 7:00 PM - 11:30 PM"
+        ],
+        "comments": "Tapas creativas, muy divertido.",
+        "coordinates": {
+            "lat": 41.375,
+            "lng": 2.158
+        },
+        "lastUpdated": "2023-10-25T09:15:00Z"
+    }
+]
