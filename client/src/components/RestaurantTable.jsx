@@ -98,14 +98,14 @@ const RestaurantTable = () => {
                 <input
                     type="text"
                     placeholder="Search restaurants (min 3 chars)..."
-                    className="w-full p-2 border rounded shadow-sm focus:ring focus:ring-blue-300"
+                    className="w-full p-2 border rounded shadow-sm focus:ring focus:ring-blue-300 dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:placeholder-gray-400"
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
                 />
             </div>
             <div className="overflow-x-auto shadow-md sm:rounded-lg">
-                <table className="w-full text-sm text-left text-gray-500">
-                    <thead className="text-xs text-gray-700 uppercase bg-gray-50">
+                <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+                    <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                         <tr>
                             <th scope="col" className="px-6 py-3 cursor-pointer" onClick={() => requestSort('visited')}>
                                 Visitado {getClassNamesFor('visited') === 'ascending' ? '▲' : getClassNamesFor('visited') === 'descending' ? '▼' : ''}
@@ -129,7 +129,7 @@ const RestaurantTable = () => {
                                 Distancia {getClassNamesFor('distance') === 'ascending' ? '▲' : getClassNamesFor('distance') === 'descending' ? '▼' : ''}
                             </th>
                             <th scope="col" className="px-6 py-3 cursor-pointer" onClick={() => requestSort('lastUpdated')}>
-                                Última Act. {getClassNamesFor('lastUpdated') === 'ascending' ? '▲' : getClassNamesFor('lastUpdated') === 'descending' ? '▼' : ''}
+                                Actualizado {getClassNamesFor('lastUpdated') === 'ascending' ? '▲' : getClassNamesFor('lastUpdated') === 'descending' ? '▼' : ''}
                             </th>
                         </tr>
                     </thead>
@@ -143,19 +143,23 @@ const RestaurantTable = () => {
                             );
 
                             return (
-                                <tr key={restaurant.id} className="bg-white border-b hover:bg-gray-50">
+                                <tr key={restaurant.id} className="bg-white border-b hover:bg-gray-50 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-600">
                                     <td className="px-6 py-4">
                                         {restaurant.visited ? '✅' : '❌'}
                                     </td>
-                                    <td className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
-                                        <a href={restaurant.googleMapsUrl} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
-                                            {restaurant.name}
-                                        </a>
+                                    <td className="px-6 py-4 font-medium text-gray-900 dark:text-white">
+                                        <div className="max-w-[65ch] truncate" title={restaurant.name}>
+                                            <a href={restaurant.googleMapsUrl} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-500">
+                                                {restaurant.name}
+                                            </a>
+                                        </div>
                                     </td>
                                     <td className="px-6 py-4">
-                                        <a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.address)}`} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
-                                            {restaurant.address}
-                                        </a>
+                                        <div className="max-w-[65ch] truncate" title={restaurant.address}>
+                                            <a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.address)}`} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-500">
+                                                {restaurant.address}
+                                            </a>
+                                        </div>
                                     </td>
                                     <td className="px-6 py-4">
                                         {restaurant.openingHours ? (
@@ -165,11 +169,13 @@ const RestaurantTable = () => {
                                         ) : 'N/A'}
                                     </td>
                                     <td className="px-6 py-4">
-                                        {restaurant.comments}
+                                        <div className="max-w-[65ch] truncate" title={restaurant.comments}>
+                                            {restaurant.comments}
+                                        </div>
                                     </td>
                                     <td className="px-6 py-4">
                                         {/* Placeholder for Maps Thumbnail - requires API Key for Static Maps */}
-                                        <div className="w-16 h-16 bg-gray-200 flex items-center justify-center text-xs text-gray-500 rounded">
+                                        <div className="w-16 h-16 bg-gray-200 flex items-center justify-center text-xs text-gray-500 rounded dark:bg-gray-700 dark:text-gray-400">
                                             Map
                                         </div>
                                     </td>
