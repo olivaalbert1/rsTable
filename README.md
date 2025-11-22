@@ -102,4 +102,20 @@ npm run sync
 - **Sortable Columns**: Click on headers to sort by Name, Address, Distance, etc.
 - **Filtering**: Search bar filters results by name, address, or comments (min 3 chars).
 - **Geolocation**: Calculates distance from your current location to the restaurant.
-- **Google Maps**: Links to maps and displays opening hours.
+## Deployment
+
+### Netlify (Frontend)
+The project includes a `netlify.toml` for easy deployment.
+1.  Connect your repository to Netlify.
+2.  It should automatically detect the settings from `netlify.toml`:
+    - **Base directory**: `client`
+    - **Build command**: `npm install && npm run build`
+    - **Publish directory**: `dist`
+3.  **Environment Variables**:
+    - Set `VITE_API_URL` to the URL of your deployed backend (e.g., `https://your-backend.onrender.com`).
+
+### Backend Deployment
+The backend is a standard Node.js/Express app. You can deploy it to services like **Render**, **Railway**, or **Heroku**.
+1.  Deploy the `server` directory.
+2.  Ensure the `data/restaurants.json` file is included.
+3.  **Note**: Since the data is in a JSON file, changes made by the GitHub Action will only be reflected if the backend redeploys or pulls the latest changes.

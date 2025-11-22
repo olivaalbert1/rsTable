@@ -9,7 +9,8 @@ const RestaurantTable = () => {
     const userLocation = useGeolocation();
 
     useEffect(() => {
-        fetch('http://localhost:3001/api/restaurants')
+        const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+        fetch(`${apiUrl}/api/restaurants`)
             .then(res => res.json())
             .then(data => {
                 setRestaurants(data);
