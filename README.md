@@ -102,6 +102,7 @@ npm run sync
 - **Sortable Columns**: Click on headers to sort by Name, Address, Distance, etc.
 - **Filtering**: Search bar filters results by name, address, or comments (min 3 chars).
 - **Geolocation**: Calculates distance from your current location to the restaurant.
+- **Dark Mode**: Toggle between light and dark themes using the button in the header.
 ## Deployment
 
 ### Netlify (Frontend)
