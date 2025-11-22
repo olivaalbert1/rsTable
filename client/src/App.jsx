@@ -18,7 +18,11 @@ function App() {
   }, [theme]);
 
   const toggleTheme = () => {
-    setTheme(prevTheme => prevTheme === 'light' ? 'dark' : 'light');
+    setTheme(prevTheme => {
+      const newTheme = prevTheme === 'light' ? 'dark' : 'light';
+      console.log('Toggling theme to:', newTheme);
+      return newTheme;
+    });
   };
 
   return (

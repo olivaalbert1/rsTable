@@ -116,7 +116,7 @@ The project includes a `netlify.toml` for easy deployment.
     - Set `VITE_API_URL` to the URL of your deployed backend (e.g., `https://your-backend.onrender.com`).
 
 ### Backend Deployment
-The backend is a standard Node.js/Express app. You can deploy it to services like **Render**, **Railway**, or **Heroku**.
+The backend is a standard Node.js/Express app. You can deploy it to services like **Render**, **Railway**, or **Heroku**. I used **Render** (https://dashboard.render.com/). You can use the `start` script to run the server.
 1.  Deploy the `server` directory.
 2.  Ensure the `data/restaurants.json` file is included.
 3.  **Note**: Since the data is in a JSON file, changes made by the GitHub Action will only be reflected if the backend redeploys or pulls the latest changes.
