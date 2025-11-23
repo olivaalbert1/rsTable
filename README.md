@@ -2,6 +2,8 @@
 
 A React-based web application backed by a Node.js server to display and manage a list of restaurants. Features include sorting, filtering, geolocation-based distance calculation, and Google Maps integration. Data is synced nightly from a Google Sheet via GitHub Actions.
 
+![](./img/Screenshot%202025-11-23%20at%2001.19.43.png)
+
 ## Project Structure
 
 ```
@@ -11,6 +13,7 @@ rsTable/
 ├── data/           # Data storage (JSON)
 ├── scripts/        # Automation scripts (Google Sheets sync)
 └── .github/        # GitHub Actions workflows
+├── img/            # Image storage
 ```
 
 ## Prerequisites
