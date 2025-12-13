@@ -28,18 +28,39 @@ async function sync() {
         const sheet = doc.sheetsByIndex[0];
         const rows = await sheet.getRows();
 
+        console.log('Sheet Headers:', sheet.headerValues);
+
+        // Create a map for case-insensitive header lookup
+        const headerMap = {};
+        sheet.headerValues.forEach(h => {
+            headerMap[h.toLowerCase()] = h;
+        });
+
+        const getValue = (row, key) => {
+            const actualKey = headerMap[key.toLowerCase()];
+            if (!actualKey) return undefined;
+            return row.get(actualKey);
+        };
+
+        if (rows.length > 0) {
+            console.log('First row sample data:', {
+                name: getValue(rows[0], 'name'),
+                address: getValue(rows[0], 'address')
+            });
+        }
+
         const restaurants = rows.map(row => ({
-            id: row.id || Math.random().toString(36).substr(2, 9),
-            visited: row.visited === 'TRUE' || row.visited === 'true',
-            name: row.name,
-            address: row.address,
-            googleMapsUrl: row.googleMapsUrl,
-            placeId: row.placeId,
-            openingHours: row.openingHours ? row.openingHours.split('|').map(s => s.trim()) : [],
-            comments: row.comments,
+            id: getValue(row, 'id') || Math.random().toString(36).substr(2, 9),
+            visited: getValue(row, 'visited') === 'TRUE' || getValue(row, 'visited') === 'true' || getValue(row, 'visited') === true,
+            name: getValue(row, 'name'),
+            address: getValue(row, 'address'),
+            googleMapsUrl: getValue(row, 'googleMapsUrl'),
+            placeId: getValue(row, 'placeId'),
+            openingHours: getValue(row, 'openingHours') ? getValue(row, 'openingHours').split('|').map(s => s.trim()) : [],
+            comments: getValue(row, 'comments'),
             coordinates: {
-                lat: parseFloat(row.lat) || 0,
-                lng: parseFloat(row.lng) || 0
+                lat: parseFloat(getValue(row, 'lat')) || 0,
+                lng: parseFloat(getValue(row, 'lng')) || 0
             },
             lastUpdated: new Date().toISOString()
         }));

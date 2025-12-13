@@ -1,0 +1,917 @@
+[
+    {
+        "id": "1",
+        "visited": true,
+        "name": "Pika Tapa",
+        "address": "Pg. del Carme, 21, 08800 Vilanova i la Geltrú, Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Pika+Tapa+TANCAT+PER+VACANCES.+FINS+AVIAT!/@41.2152316,1.7241399,17z/data=!3m1!4b1!4m6!3m5!1s0x12a386eefd37d047:0x7f9007a0ec9a03d8!8m2!3d41.2152316!4d1.7267148!16s%2Fg%2F1td0_t2p?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "Cerrado por vacaciones (el link de maps se romperá).",
+        "coordinates": {
+            "lat": 41.2152277,
+            "lng": 1.7268041
+        },
+        "lastUpdated": "Tue Dec 31 2024 12:40:49 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "2",
+        "visited": false,
+        "name": "Visita a la colonia well con comida en el Restaurant Capritx",
+        "address": "Carrer Reixach, 16, 08690 La Colònia Güell, Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Restaurant+Capritx/@41.3631014,2.0252224,17z/data=!3m1!4b1!4m6!3m5!1s0x12a49b0ab02f4a9d:0xb47ea680646f5251!8m2!3d41.3631014!4d2.0277973!16s%2Fg%2F1tkgtb03?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "lastUpdated": "Tue Dec 31 2024 12:41:59 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "3",
+        "visited": true,
+        "name": "Restaurante L'Olivé",
+        "address": "Carrer de Balmes, 47, L'Eixample, 08007 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Restaurante+L'Oliv%C3%A9/@41.3890957,2.1578117,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a28d0f0c0b6b:0x549059360b575c3b!8m2!3d41.3890958!4d2.1626826!16s%2Fg%2F1vt_s9p2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3890979,
+            "lng": 2.1626768
+        },
+        "lastUpdated": "Tue Dec 31 2024 12:42:11 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "4",
+        "visited": false,
+        "name": "El Rey de la Gamba \"Desde 1972\"",
+        "address": "Pg. de Joan de Borbó, 53, Ciutat Vella, 08003 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/El+Rey+de+la+Gamba+%22Desde+1972%22/@41.3772315,2.186161,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a3abc4e4f9f3:0x9143a0cf7b4bba42!8m2!3d41.3772315!4d2.1887359!16s%2Fg%2F1tdv8j7v?entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3772218,
+            "lng": 2.1887349
+        },
+        "lastUpdated": "Tue Dec 31 2024 12:43:02 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "5",
+        "visited": true,
+        "name": "Nobu Restaurant",
+        "address": "Av. de Roma, 4, Distrito de Sants-Montjuïc, 08014 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Nobu+Restaurante+Barcelona/@41.379635,2.1401287,16z/data=!3m2!4b1!5s0x12a4988057f718cb:0x469d6f7180d2e060!4m6!3m5!1s0x12a499dbe914b10b:0xc64f09ba55ac02fb!8m2!3d41.379635!4d2.1427036!16s%2Fg%2F11fnhdr721?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "lastUpdated": "Tue Dec 31 2024 12:42:36 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "6",
+        "visited": true,
+        "name": "My fucking restaurant",
+        "address": "Carrer Nou de la Rambla, 35, Ciutat Vella, 08001 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/My+Fucking+Restaurant/@41.3777843,2.1682751,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a259b7adb115:0x11a312dd0f285ab9!8m2!3d41.3777844!4d2.173146!16s%2Fg%2F11h0zn078?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3778272,
+            "lng": 2.173039
+        },
+        "lastUpdated": "Tue Dec 31 2024 12:42:41 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "7",
+        "visited": true,
+        "name": "Thai Barcelona Royal",
+        "address": "Carrer de la Diputació, 273, L'Eixample, 08007 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Thai+Barcelona+%7C+Royal+Cuisine/@41.3910391,2.1651123,16z/data=!3m2!4b1!5s0x12a4a2eef0f32c3f:0x9511c80b4bbe4446!4m6!3m5!1s0x12a4a2ed8637a80d:0x8a7e3ea3a543f6ee!8m2!3d41.3910391!4d2.1676872!16s%2Fg%2F1tdv8j7b?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.391066,
+            "lng": 2.1676407
+        },
+        "lastUpdated": "Tue Dec 31 2024 14:31:00 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "8",
+        "visited": false,
+        "name": "Yako sushi",
+        "address": "Passeig dels Ferrocarrils Catalans, 284, 08940 Cornellà de Llobregat, Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Yako+Sushi+Cornell%C3%A1/@41.3549964,2.0915784,17z/data=!3m1!4b1!4m6!3m5!1s0x12a49903e6d0994d:0xdb0ffb043c1abc18!8m2!3d41.3549965!4d2.0964493!16s%2Fg%2F11qg5h822z?entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3549767,
+            "lng": 2.095979
+        },
+        "lastUpdated": "Tue Dec 31 2024 12:42:52 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "9",
+        "visited": false,
+        "name": "Hanai vegana",
+        "address": "Carrer dels Carders, 28, Ciutat Vella, 08003 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Hanai+Vegana+-+Gluten+Free+%26+Vegan+Bakery/@41.3867454,2.1777698,17z/data=!4m15!1m8!3m7!1s0x12a4a2fc148d7aad:0x31b3d7c3fad15654!2sC%2F+dels+Carders,+28,+Ciutat+Vella,+08003+Barcelona!3b1!8m2!3d41.3867454!4d2.1803447!16s%2Fg%2F11bw4jhg26!3m5!1s0x2c387157445b7e59:0xbe5c34a8f289cdc7!8m2!3d41.3867454!4d2.1803447!16s%2Fg%2F11pz00s9c_?entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "Pastelería",
+        "coordinates": {
+            "lat": 41.3867862,
+            "lng": 2.1802994
+        },
+        "lastUpdated": "Tue Dec 31 2024 14:32:01 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "10",
+        "visited": true,
+        "name": "Pizza Natura saludable y sin gluten",
+        "address": "Carrer de Pau Claris, 153, Eixample, 08009 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Pizza+Natura+saludable+y+sin+gluten/@41.3945132,2.1620049,17z/data=!4m15!1m8!3m7!1s0x12a4a29334e0ccc1:0x8c8325cdacc7b7ad!2sC.+de+Pau+Claris,+153,+Eixample,+08009+Barcelona!3b1!8m2!3d41.3945132!4d2.1645798!16s%2Fg%2F11csk28k1j!3m5!1s0x12a4a30fc5592ead:0x3ce8b9bef865ddc5!8m2!3d41.3944275!4d2.1644995!16s%2Fg%2F11sx2m6wk1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3945052,
+            "lng": 2.1645638
+        },
+        "lastUpdated": "Tue Dec 31 2024 14:32:58 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "11",
+        "visited": false,
+        "name": "Carnal Steak House",
+        "address": "Carrer d'Enric Granados, 52, L'Eixample, 08008 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Carnal+Steak+House/@41.3914216,2.1553233,17z/data=!4m15!1m8!3m7!1s0x12a4a291dd438231:0x65438758ec6dc658!2sCarrer+d'Enric+Granados,+52,+L'Eixample,+08008+Barcelona!3b1!8m2!3d41.3914216!4d2.1578982!16s%2Fg%2F11bw3zp8nd!3m5!1s0x12a4a3cbef02ca3d:0xd79774af27d56dae!8m2!3d41.3914216!4d2.1578982!16s%2Fg%2F11t5_88pj9?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.391378,
+            "lng": 2.157827
+        },
+        "lastUpdated": "Tue Dec 31 2024 16:33:34 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "12",
+        "visited": true,
+        "name": "La Martita Cafè Restaurant",
+        "address": "Carrer d'Entença, 7, L'Eixample, 08015 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/La+Martita+Caf%C3%A8+Restaurant/@41.3755636,2.1532234,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a343bc37a8f5:0x5e51257646e62339!8m2!3d41.3755636!4d2.1557983!16s%2Fg%2F11t4h2fzvg?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3755748,
+            "lng": 2.1557936
+        },
+        "lastUpdated": "Tue Dec 31 2024 17:02:38 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "13",
+        "visited": false,
+        "name": "YAKUMANKA by Gastón Acurio",
+        "address": "Carrer de València, 207, L'Eixample, 08007 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/YAKUMANKA+by+Gast%C3%B3n+Acurio/@41.3903479,2.1572484,17z/data=!3m1!5s0x12a4a28de2c057dd:0xab158f957e13daa2!4m15!1m8!3m7!1s0x12a4a28e00dba405:0xb413ec0770a5803d!2sCarrer+de+Val%C3%A8ncia,+207,+L'Eixample,+08007+Barcelona!3b1!8m2!3d41.3903479!4d2.1598233!16s%2Fg%2F11bw3xtxxg!3m5!1s0x12a4a28de2b734bb:0x20d8ddbf52f41ba!8m2!3d41.3902779!4d2.1599419!16s%2Fg%2F11g8v3xwty?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3902478,
+            "lng": 2.1598957
+        },
+        "lastUpdated": "Tue Dec 31 2024 17:08:57 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "14",
+        "visited": false,
+        "name": "Pepito",
+        "address": "Passatge de Domingo, 3, L'Eixample, 08007 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Pepito+Restaurante/@41.3927323,2.1598689,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a292f12abbbb:0xcc49e42f9295fd6c!8m2!3d41.3927323!4d2.1624438!16s%2Fg%2F1q62dfv7c?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3926922,
+            "lng": 2.1625135
+        },
+        "lastUpdated": "Tue Dec 31 2024 17:10:02 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "15",
+        "visited": true,
+        "name": "En Ville | Restaurante Gluten Free Barcelona",
+        "address": "Carrer del Doctor Dou, 14, Ciutat Vella, 08001 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/En+Ville+%7C+Restaurante+sin+Gluten+%7C+Barcelona/@41.3829438,2.1637325,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a2f5c941ff53:0x5a6d4a3811c9deb1!8m2!3d41.3829439!4d2.1686034!16s%2Fg%2F1tfhvv1h?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3828914,
+            "lng": 2.1686299
+        },
+        "lastUpdated": "Tue Dec 31 2024 17:10:54 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "16",
+        "visited": false,
+        "name": "NORI SUSHI Putxet",
+        "address": "Carrer de Ballester, 7, Sarrià-Sant Gervasi, 08023 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/NORI+SUSHI+Putxet/@41.4057676,2.1444575,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4991cf9f69d53:0x969b07dd2591d6f4!8m2!3d41.4057676!4d2.1444575!16s%2Fg%2F11ngtp5hsc?authuser=0&hl=es&entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.405777,
+            "lng": 2.144508
+        },
+        "lastUpdated": "Tue Dec 31 2024 17:11:31 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "17",
+        "visited": false,
+        "name": "NORI SUSHI Poble-Sec",
+        "address": "Carrer de Puig i Xoriguer, 45, Sants-Montjuïc, 08004 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/NORI+SUSHI+Poble-Sec/@41.3724847,2.1705615,17z/data=!4m15!1m8!3m7!1s0x12a4a25aedcf3b2d:0x4a94bc80a8024307!2sCarrer+de+Puig+i+Xoriguer,+45,+Sants-Montju%C3%AFc,+08004+Barcelona!3b1!8m2!3d41.3724847!4d2.1731364!16s%2Fg%2F11c25xvqr8!3m5!1s0x12a4a3b123523edf:0x93ff2b400af831d3!8m2!3d41.3724847!4d2.1731364!16s%2Fg%2F11khk2n021?entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3724938,
+            "lng": 2.1730387
+        },
+        "lastUpdated": "Tue Dec 31 2024 17:11:57 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "18",
+        "visited": false,
+        "name": "Muten Roshi Ramen",
+        "address": "Carrer de Sant Agustí, 10, Gràcia, 08012 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Mutenroshi+Ramen/@41.3982964,2.1581448,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a2943442ba63:0xc89a90cc735ab2d5!8m2!3d41.3982964!4d2.1607197!16s%2Fg%2F1tg97hwy?entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3982774,
+            "lng": 2.160725
+        },
+        "lastUpdated": "Tue Dec 31 2024 17:15:33 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "19",
+        "visited": false,
+        "name": "Le P'ty Mon",
+        "address": "Passatge de Lluís Pellicer, 13, L'Eixample, 08036 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Le+P%E2%80%99ty+Mon/@41.3931728,2.148374,18.88z/data=!4m6!3m5!1s0x12a4a29c84934c57:0xce01a0c6e649a5c6!8m2!3d41.3931922!4d2.1493031!16s%2Fg%2F1tfgrf7p?entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "crepes",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "lastUpdated": "Tue Dec 31 2024 17:19:16 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "20",
+        "visited": false,
+        "name": "Soma restaurant",
+        "address": "Carrer de Provença, 179, L'Eixample, 08036 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Soma+restaurant/@41.3909942,2.1536756,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a321a18d2da7:0x821240fd7bbc4ea1!8m2!3d41.3909942!4d2.1562505!16s%2Fg%2F11qh2j84dt?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3909973,
+            "lng": 2.1562707
+        },
+        "lastUpdated": "Wed Jan 01 2025 15:28:03 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "21",
+        "visited": true,
+        "name": "Veg and the Gang",
+        "address": "Carrer de Casanova, 195, Eixample, 08036 Barcelona",
+        "googleMapsUrl": "https://www.google.es/maps/place/Veg%26+The+Gang/@41.3927271,2.148727,16z/data=!3m2!4b1!5s0x12a4a29c94bcd333:0xd1ccb994a5baf1b7!4m6!3m5!1s0x12a4a3bd365ff36d:0x1d2482ef0cdf2212!8m2!3d41.3927271!4d2.148727!16s%2Fg%2F11rxmbbzf1?hl=es&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "Cerrado temporalmente",
+        "coordinates": {
+            "lat": 41.3927863,
+            "lng": 2.1488198
+        },
+        "lastUpdated": "Wed Jan 01 2025 15:27:34 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "22",
+        "visited": false,
+        "name": "Little Andaman (hindú)",
+        "address": "C/ de Muntaner, 182, L'Eixample, 08036 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20Muntaner%2C%20182%2C%20L'Eixample%2C%2008036%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3923371,
+            "lng": 2.1521283
+        },
+        "lastUpdated": "2025-11-22T19:23:13.238Z"
+    },
+    {
+        "id": "23",
+        "visited": false,
+        "name": "De Gustibus Italiae Sarrià",
+        "address": "Carrer de Ricardo Calvo, 13, Sarrià-Sant Gervasi, 08022 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrer%20de%20Ricardo%20Calvo%2C%2013%2C%20Sarri%C3%A0-Sant%20Gervasi%2C%2008022%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.4027805,
+            "lng": 2.1329913
+        },
+        "lastUpdated": "2025-11-22T19:23:14.341Z"
+    },
+    {
+        "id": "24",
+        "visited": true,
+        "name": "TAMAE BAR (asian)",
+        "address": "C/ de Casanova, 262, 08021 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20Casanova%2C%20262%2C%2008021%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3940771,
+            "lng": 2.1475104
+        },
+        "lastUpdated": "2025-11-22T19:23:15.443Z"
+    },
+    {
+        "id": "25",
+        "visited": false,
+        "name": "Antúnez (Bodega bien) 937 68 85 75",
+        "address": "Carrer de Neptú, 18, 08006 Barcelona, Spain",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrer%20de%20Nept%C3%BA%2C%2018%2C%2008006%20Barcelona%2C%20Spain",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3979417,
+            "lng": 2.1546769
+        },
+        "lastUpdated": "2025-11-22T19:23:16.544Z"
+    },
+    {
+        "id": "26",
+        "visited": false,
+        "name": "Harlem Gavà 636 10 62 63",
+        "address": "Carrer de Sant Pere, 38, 08850 Gavà, Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrer%20de%20Sant%20Pere%2C%2038%2C%2008850%20Gav%C3%A0%2C%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3045738,
+            "lng": 2.0037675
+        },
+        "lastUpdated": "2025-11-22T19:23:17.645Z"
+    },
+    {
+        "id": "27",
+        "visited": false,
+        "name": "Manioca 934 61 92 25",
+        "address": "C/ de Sardenya, 56, 08005 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20Sardenya%2C%2056%2C%2008005%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3910247,
+            "lng": 2.1899334
+        },
+        "lastUpdated": "2025-11-22T19:23:18.747Z"
+    },
+    {
+        "id": "28",
+        "visited": false,
+        "name": "Isabella's Restaurant 934 14 57 69",
+        "address": "C/ de Ganduxer, 50, 08021 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20Ganduxer%2C%2050%2C%2008021%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3959982,
+            "lng": 2.1368917
+        },
+        "lastUpdated": "2025-11-22T19:23:19.848Z"
+    },
+    {
+        "id": "29",
+        "visited": false,
+        "name": "Serras Hotel Barcelona (rooftop) 936 06 16 32",
+        "address": "Pg. de Colom, 9, 08002 Barcelona, Spain",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pg.%20de%20Colom%2C%209%2C%2008002%20Barcelona%2C%20Spain",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3801585,
+            "lng": 2.1808382
+        },
+        "lastUpdated": "2025-11-22T19:23:20.950Z"
+    },
+    {
+        "id": "30",
+        "visited": true,
+        "name": "La Vinateria del Call 933 02 60 92",
+        "address": "C/ de Salomó ben Adret, 9, 08002 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20Salom%C3%B3%20ben%20Adret%2C%209%2C%2008002%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3826731,
+            "lng": 2.175743
+        },
+        "lastUpdated": "2025-11-22T19:23:22.051Z"
+    },
+    {
+        "id": "31",
+        "visited": false,
+        "name": "YUANLAOSI Hotpot 936 27 18 70",
+        "address": "C/ de la Diputació, 304, 08009 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20la%20Diputaci%C3%B3%2C%20304%2C%2008009%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3935958,
+            "lng": 2.1714719
+        },
+        "lastUpdated": "2025-11-22T19:23:23.152Z"
+    },
+    {
+        "id": "32",
+        "visited": true,
+        "name": "ARUKU Sin Gluten Sushi Gluten Free - 692 04 32 40",
+        "address": "C/ de Provença, 327, 08037 Barcelona, Spain",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20Proven%C3%A7a%2C%20327%2C%2008037%20Barcelona%2C%20Spain",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3995079,
+            "lng": 2.1676227
+        },
+        "lastUpdated": "2025-11-22T19:23:24.254Z"
+    },
+    {
+        "id": "33",
+        "visited": false,
+        "name": "Nectari",
+        "address": "C/ de València, 28, 08015 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20Val%C3%A8ncia%2C%2028%2C%2008015%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3799477,
+            "lng": 2.1466305
+        },
+        "lastUpdated": "2025-11-22T19:23:25.356Z"
+    },
+    {
+        "id": "35",
+        "visited": false,
+        "name": "Manduca Coffee & Lunch",
+        "address": "Carrer dels Mestres Casals i Martorell, 24, Ciutat Vella, 08003 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrer%20dels%20Mestres%20Casals%20i%20Martorell%2C%2024%2C%20Ciutat%20Vella%2C%2008003%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3875371,
+            "lng": 2.1780631
+        },
+        "lastUpdated": "2025-11-22T19:23:27.558Z"
+    },
+    {
+        "id": "36",
+        "visited": false,
+        "name": "Bloome by Sasha",
+        "address": "Pg. de St. Joan, 80, L'Eixample, 08009 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pg.%20de%20St.%20Joan%2C%2080%2C%20L'Eixample%2C%2008009%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3974267,
+            "lng": 2.1726187
+        },
+        "lastUpdated": "2025-11-22T19:23:28.660Z"
+    },
+    {
+        "id": "37",
+        "visited": false,
+        "name": "L'àpat",
+        "address": "Carrer del Carril, 38, 08750 Molins de Rei, Barcelona, Spain",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrer%20del%20Carril%2C%2038%2C%2008750%20Molins%20de%20Rei%2C%20Barcelona%2C%20Spain",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.409458,
+            "lng": 2.0206438
+        },
+        "lastUpdated": "2025-11-22T19:23:29.762Z"
+    },
+    {
+        "id": "38",
+        "visited": false,
+        "name": "Antigua",
+        "address": "Carrer de Marià Cubí, 59, 08006 Barcelona, Spain",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrer%20de%20Mari%C3%A0%20Cub%C3%AD%2C%2059%2C%2008006%20Barcelona%2C%20Spain",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3980086,
+            "lng": 2.1492952
+        },
+        "lastUpdated": "2025-11-22T19:23:30.863Z"
+    },
+    {
+        "id": "39",
+        "visited": false,
+        "name": "Cèntric Gastro-Bar",
+        "address": "Rambla de Nostra Senyora, 10, 08720 Vilafranca del Penedès, Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rambla%20de%20Nostra%20Senyora%2C%2010%2C%2008720%20Vilafranca%20del%20Pened%C3%A8s%2C%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.345356,
+            "lng": 1.7000258
+        },
+        "lastUpdated": "2025-11-22T19:23:31.965Z"
+    },
+    {
+        "id": "40",
+        "visited": true,
+        "name": "Tastam",
+        "address": "Carretera de Santa Creu de Calafell, 96, 08850 Gavà, Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carretera%20de%20Santa%20Creu%20de%20Calafell%2C%2096%2C%2008850%20Gav%C3%A0%2C%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.2994505,
+            "lng": 2.0039759
+        },
+        "lastUpdated": "Tue Dec 31 2024 17:19:57 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "41",
+        "visited": false,
+        "name": "Món Việt - Restaurant Vietnamita Barcelona",
+        "address": "C/ de Sepúlveda, 94, L'Eixample, 08015 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20Sep%C3%BAlveda%2C%2094%2C%20L'Eixample%2C%2008015%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3790613,
+            "lng": 2.157396
+        },
+        "lastUpdated": "2025-11-22T19:23:34.168Z"
+    },
+    {
+        "id": "42",
+        "visited": false,
+        "name": "Charro Premium Burgers",
+        "address": "Carrer d'Alacant, 4, 08905 L'Hospitalet de Llobregat, Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrer%20d'Alacant%2C%204%2C%2008905%20L'Hospitalet%20de%20Llobregat%2C%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3724897,
+            "lng": 2.1108314
+        },
+        "lastUpdated": "2025-11-22T19:23:35.269Z"
+    },
+    {
+        "id": "43",
+        "visited": false,
+        "name": "Philosopheat",
+        "address": "C/ de Pau Claris, 188, L'Eixample, 08037 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20Pau%20Claris%2C%20188%2C%20L'Eixample%2C%2008037%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3964519,
+            "lng": 2.1623617
+        },
+        "lastUpdated": "2025-11-22T19:23:36.370Z"
+    },
+    {
+        "id": "44",
+        "visited": false,
+        "name": "Braseria La Selva Barcelona",
+        "address": "C. de la Indústria, 138, L'Eixample, 08025 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C.%20de%20la%20Ind%C3%BAstria%2C%20138%2C%20L'Eixample%2C%2008025%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "algunos comentarios de la publicación de insta dicen que se equivocaron con todo y no tienen ni idea de trazas (hay dos restas)",
+        "coordinates": {
+            "lat": 41.4087635,
+            "lng": 2.1735925
+        },
+        "lastUpdated": "2025-11-22T19:23:37.472Z"
+    },
+    {
+        "id": "45",
+        "visited": true,
+        "name": "Restaurante Brasa y leña",
+        "address": "Av. de Josep Tarradellas i Joan, 08901 L'Hospitalet de Llobregat, Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Av.%20de%20Josep%20Tarradellas%20i%20Joan%2C%2008901%20L'Hospitalet%20de%20Llobregat%2C%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3635189,
+            "lng": 2.1046463
+        },
+        "lastUpdated": "2025-11-22T19:23:38.574Z"
+    },
+    {
+        "id": "46",
+        "visited": true,
+        "name": "L’Entrecôte",
+        "address": "C/ de Pau Claris, 142, L'Eixample, 08009 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=C%2F%20de%20Pau%20Claris%2C%20142%2C%20L'Eixample%2C%2008009%20Barcelona",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.396666,
+            "lng": 2.1693282
+        },
+        "lastUpdated": "2025-11-22T19:23:39.675Z"
+    },
+    {
+        "id": "47",
+        "visited": false,
+        "name": "Dosa Nova Barcelona",
+        "address": "Carrer del Pintor Fortuny, 22, Ciutat Vella, 08001 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Dosa+Nova+Barcelona/@41.3827606,2.1693282,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a32b84eea981:0x7ef8878bd8d0f124!8m2!3d41.3827606!4d2.1693282!16s%2Fg%2F11t4mvvbd5?entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "hindú vegano",
+        "coordinates": {
+            "lat": 41.3827606,
+            "lng": 2.1693282
+        },
+        "lastUpdated": "2025-11-22T19:23:40.777Z"
+    },
+    {
+        "id": "48",
+        "visited": false,
+        "name": "Pizza Natura Saludable y sin gluten",
+        "address": "C/ de Pau Claris, 153, Eixample, 08009 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Pizza+Natura+saludable+y+sin+gluten,+PIZZA+NATURA+SALUDABLE+Y+SIN+GLUTEN,+C%2F+de+Pau+Claris,+153,+Eixample,+08009+Barcelona/data=!4m2!3m1!1s0x12a4a30fc5592ead:0x3ce8b9bef865ddc5?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACDXggMqGyw0NzA3NTkxNSw0NzA4NDM4Nyw5NDIxMzMxMUICRVM%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.396666,
+            "lng": 2.1693282
+        },
+        "lastUpdated": "2025-11-22T19:23:41.879Z"
+    },
+    {
+        "id": "49",
+        "visited": false,
+        "name": "Gorra Restaurant",
+        "address": "C/ de la Diputació, 421, Eixample, 08013 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Gorr%C3%ADa+Restaurant,+C%2F+de+la+Diputaci%C3%B3,+421,+Eixample,+08013+Barcelona/data=!4m2!3m1!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACCIJyobLDQ3MDc1OTE1LDQ3MDg0Mzg3LDk0MjEzMzExQgJFUw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.396666,
+            "lng": 2.1693282
+        },
+        "lastUpdated": "2025-11-22T19:23:42.980Z"
+    },
+    {
+        "id": "50",
+        "visited": false,
+        "name": "Hamburgueseria Black and White",
+        "address": "Carrer Riera Basté, 4, 08830 Sant Boi de Llobregat, Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Hamburgueseria+Black+and+White,+Carrer+Riera+Baste,+4,+08830+Sant+Boi+de+Llobregat,+Barcelona/data=!4m2!3m1!1s0x12a4a2c2b5b5b5b5:0x12a4a2c2b5b5b5b5?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACDZggMqGyw0NzA3NTkxNSw0NzA4NDM4Nyw5NDIxMzMxMUICRVM%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.347792,
+            "lng": 2.0370365
+        },
+        "lastUpdated": "2025-11-22T19:23:44.559Z"
+    },
+    {
+        "id": "51",
+        "visited": false,
+        "name": "MAISON CARNE",
+        "address": "C/ de Mallorca, 204, L'Eixample, 08036 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/MAISON+CARNE,+C%2F+de+Mallorca,+204,+L%27Eixample,+08036+Barcelona/data=!4m2!3m1!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACCIJyobLDQ3MDc1OTE1LDQ3MDg0Mzg3LDk0MjEzMzExQgJFUw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3903973,
+            "lng": 2.1582572
+        },
+        "lastUpdated": "2025-11-22T19:23:45.839Z"
+    },
+    {
+        "id": "52",
+        "visited": false,
+        "name": "El Guajolote",
+        "address": "Carrer de Déu i Mata, 43, Distrito de Les Corts, 08014 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/El+Guajolote,+Carrer+de+Déu+i+Mata,+43,+Distrito+de+Les+Corts,+08014+Barcelona/data=!4m2!3m1!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACCIJyobLDQ3MDc1OTE1LDQ3MDg0Mzg3LDk0MjEzMzExQgJFUw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "lastUpdated": "2025-11-22T19:23:47.527Z"
+    },
+    {
+        "id": "53",
+        "visited": false,
+        "name": "El tianguis",
+        "address": "C de Villarroel, 42, L'Eixample, 08011 Barcelona ",
+        "googleMapsUrl": "https://www.google.com/maps/place/El+tianguis,+C+de+Villarroel,+42,+L%27Eixample,+08011+Barcelona/data=!4m2!3m1!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACCIJyobLDQ3MDc1OTE1LDQ3MDg0Mzg3LDk0MjEzMzExQgJFUw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3825244,
+            "lng": 2.1608167
+        },
+        "lastUpdated": "2025-11-22T19:23:48.762Z"
+    },
+    {
+        "id": "54",
+        "visited": false,
+        "name": "Ardemos ",
+        "address": "C/ de Còrsega, 562, L'Eixample, 08025 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Ardemos,+C%2F+de+C%C3%B2rsega,+562,+L%27Eixample,+08025+Barcelona/data=!4m2!3m1!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACCIJyobLDQ3MDc1OTE1LDQ3MDg0Mzg3LDk0MjEzMzExQgJFUw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.4070401,
+            "lng": 2.1735829
+        },
+        "lastUpdated": "2025-11-22T19:23:50.075Z"
+    },
+    {
+        "id": "55",
+        "visited": false,
+        "name": "La cachapera",
+        "address": "c/ Villarroel 57 Barcelona ",
+        "googleMapsUrl": "https://www.google.com/maps/place/La+cachapera,+c%2F+Villarroel+57,+Barcelona/data=!4m2!3m1!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACCIJyobLDQ3MDc1OTE1LDQ3MDg0Mzg3LDk0MjEzMzExQgJFUw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3833438,
+            "lng": 2.1590465
+        },
+        "lastUpdated": "2025-11-22T19:23:51.337Z"
+    },
+    {
+        "id": "56",
+        "visited": false,
+        "name": "Nakashita Born",
+        "address": "c/ del Rec comtal 15 ciutat vella ",
+        "googleMapsUrl": "https://www.google.com/maps/place/Nakashita+Born,+c%2F+del+Rec+comtal+15+ciutat+vella/@41.3899184,2.1798326,17z/data=!3m2!4b1!5s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77!4m6!3m5!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77!8m2!3d41.3899184!4d2.1798326!16s%2Fg%2F1tf09pvm?entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3899184,
+            "lng": 2.1798326
+        },
+        "lastUpdated": "2025-11-22T19:23:52.652Z"
+    },
+    {
+        "id": "57",
+        "visited": false,
+        "name": "veganashi",
+        "address": "c/ de Lleida 33, Sants -Montjuïc",
+        "googleMapsUrl": "https://www.google.com/maps/place/veganashi,+c%2F+de+Lleida+33,+Sants+-Montju%C3%ADc/@41.3724758,2.1555296,17z/data=!3m2!4b1!5s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77!4m6!3m5!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77!8m2!3d41.3724758!4d2.1555296!16s%2Fg%2F1tf09pvm?entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3724758,
+            "lng": 2.1555296
+        },
+        "lastUpdated": "2025-11-22T19:23:55.311Z"
+    },
+    {
+        "id": "58",
+        "visited": false,
+        "name": "ELJ APO NÉS",
+        "address": "Passatge de la Concepció, 5, L'Eixample, 08008 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/ELJ+APO+N%C3%89S/@41.394697,2.1578341,17z/data=!3m2!4b1!5s0x12a4a293c28cd7db:0x968ab2c3944719e6!4m6!3m5!1s0x12a4a293ec6463ad:0x9111489993992070!8m2!3d41.394697!4d2.160409!16s%2Fg%2F1tf09pvm?entry=ttu",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3947314,
+            "lng": 2.1603995
+        },
+        "lastUpdated": "2025-11-22T19:23:56.610Z"
+    },
+    {
+        "id": "59",
+        "visited": false,
+        "name": "Antara",
+        "address": "Carrer de Sant Pere, 11, 08911 Badalona, Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Antara,+Carrer+de+Sant+Pere,+11,+08911+Badalona,+Barcelona/data=!4m2!3m1!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACCIJyobLDQ3MDc1OTE1LDQ3MDg0Mzg3LDk0MjEzMzExQgJFUw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.449515,
+            "lng": 2.2509814
+        },
+        "lastUpdated": "2025-11-22T19:23:58.020Z"
+    },
+    {
+        "id": "60",
+        "visited": false,
+        "name": "Micelio by Sasha",
+        "address": "Pg. de St. Joan, 80, L'Eixample, 08009 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Micelio+by+Sasha,+Pg.+de+St.+Joan,+80,+L%27Eixample,+08009+Barcelona/data=!4m2!3m1!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACCIJyobLDQ3MDc1OTE1LDQ3MDg0Mzg3LDk0MjEzMzExQgJFUw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3974267,
+            "lng": 2.1726187
+        },
+        "lastUpdated": "2025-11-22T19:23:59.563Z"
+    },
+    {
+        "id": "61",
+        "visited": false,
+        "name": "Hakone Eixample ",
+        "address": "Carrer de València, 204, Eixample, 08011 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Hakone+Eixample,+Carrer+de+Val%C3%A8ncia,+204,+Eixample,+08011+Barcelona/data=!4m2!3m1!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACCIJyobLDQ3MDc1OTE1LDQ3MDg0Mzg3LDk0MjEzMzExQgJFUw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.388556,
+            "lng": 2.158145
+        },
+        "lastUpdated": "Thu Jan 02 2025 21:58:03 GMT+0100 (hora estándar de Europa central)"
+    },
+    {
+        "id": "62",
+        "visited": false,
+        "name": "Generation B",
+        "address": "Carrer de Girona, 118, Eixample, 08009 Barcelona",
+        "googleMapsUrl": "https://www.google.com/maps/place/Generation+B,+Carrer+de+Girona,+118,+Eixample,+08009+Barcelona/data=!4m2!3m1!1s0x12a4a2e7182b6a7f:0x76d814b3dd87ef77?utm_source=mstt_1&entry=gps&g_ep=CAESCjExLjExOS4xMDEYACCIJyobLDQ3MDc1OTE1LDQ3MDg0Mzg3LDk0MjEzMzExQgJFUw%3D%3D",
+        "placeId": "PLACE_ID_PLACEHOLDER",
+        "openingHours": [],
+        "comments": "",
+        "coordinates": {
+            "lat": 41.3970942,
+            "lng": 2.1682789
+        },
+        "lastUpdated": "Thu Jan 02 2025 21:58:04 GMT+0100 (hora estándar de Europa central)"
+    }
+]
