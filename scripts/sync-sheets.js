@@ -1,25 +1,28 @@
 const { GoogleSpreadsheet } = require('google-spreadsheet');
+const { JWT } = require('google-auth-library');
 const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
 
-const CREDENTIALS = {
-    client_email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
-    private_key: process.env.GOOGLE_PRIVATE_KEY ? process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n') : undefined,
-};
 const SHEET_ID = process.env.GOOGLE_SHEET_ID;
-
 const DATA_FILE = path.join(__dirname, '../data/restaurants.json');
 
 async function sync() {
-    if (!CREDENTIALS.client_email || !CREDENTIALS.private_key || !SHEET_ID) {
+    if (!process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL || !process.env.GOOGLE_PRIVATE_KEY || !SHEET_ID) {
         console.error('Missing Google Sheets credentials or Sheet ID.');
         process.exit(1);
     }
 
+    const serviceAccountAuth = new JWT({
+        email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
+        key: process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n'),
+        scopes: [
+            'https://www.googleapis.com/auth/spreadsheets',
+        ],
+    });
+
     try {
-        const doc = new GoogleSpreadsheet(SHEET_ID);
-        await doc.useServiceAccountAuth(CREDENTIALS);
+        const doc = new GoogleSpreadsheet(SHEET_ID, serviceAccountAuth);
         await doc.loadInfo();
 
         const sheet = doc.sheetsByIndex[0];
